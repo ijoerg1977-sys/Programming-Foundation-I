@@ -1,4 +1,4 @@
-﻿namespace A10_1_1
+﻿namespace Adressverwaltung
 {
     partial class Form1
     {
